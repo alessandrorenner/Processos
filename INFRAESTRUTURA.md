@@ -120,14 +120,3 @@ configurar e gerenciar redes sem fio, incluindo redes Wi-Fi e redes celulares, p
 6. **Colaborar com outras equipes**: trabalhar em estreita colaboração com outros profissionais de TI, como administradores de sistemas, desenvolvedores de software, engenheiros de segurança da informação e analistas de dados, para garantir que a rede suporte as necessidades de negócios e de TI da organização.
 
 7. **Propor a adoção de novas tecnologias**:
-
-
-
-
-1. **Projetar**: 
-2. **Implementar**
-3. **Monitorar**
-4. **Identificar e solucionar problemas**
-5. ** **:
-6. **Colaborar com outras equipes**
-7. **Propor a adoção de novas tecnologias**
