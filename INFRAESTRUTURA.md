@@ -13,8 +13,10 @@ A engenharia de dados é um campo que se concentra na concepção, desenvolvimen
 ### as principais atividades da engenharia de dados são:
 1. **Projetar**: projetar e desenvolver sistemas de gerenciamento de dados escaláveis e seguros para atender às necessidades de negócios e de análise de dados.
 2. **Implementar**: implementar sistemas de gerenciamento de dados
+
                     extrair dados de várias fontes, transformar os dados em um formato adequado para análise e carregar os dados em sistemas de gerenciamento de dados.
-                    integrar sistemas de gerenciamento de dados com outros sistemas e aplicativos para permitir a troca de dados e a automação de processos.
+                    
+		    integrar sistemas de gerenciamento de dados com outros sistemas e aplicativos para permitir a troca de dados e a automação de processos.
 3. **Monitorar**: monitorar o desempenho dos sistemas de gerenciamento de dados e otimizar o desempenho para garantir a escalabilidade e a eficiência.
                   garantir a segurança e a privacidade dos dados armazenados e processados pelos sistemas de gerenciamento de dados, 
 4. **Identificar e solucionar problemas**: 
@@ -70,7 +72,9 @@ A engenharia de redes é um campo da engenharia de computação que se concentra
 ### as principais atividades da engenharia de redes são:
 1. **Projetar**: projetar redes de computadores eficientes, seguras e confiáveis, que atendam aos requisitos específicos de negócios ou de TI da Prefeitura de Goiânia.
 2. **Implementar**: implementar medidas de segurança para proteger a rede contra ameaças externas, como hackers e vírus, além de monitorar a rede para detectar possíveis violações de segurança.
+
                     configurar e manter dispositivos de rede, como roteadores, switches, firewalls, balanceadores de carga e outros dispositivos, para garantir que eles estejam funcionando corretamente.
+
 					configurar e gerenciar redes sem fio, incluindo redes Wi-Fi e redes celulares, para permitir que dispositivos móveis se conectem à rede.
 3. **Monitorar**: garantir que a rede esteja funcionando corretamente e monitorar o desempenho da rede para identificar problemas e solucioná-los rapidamente.
 4. **Identificar e solucionar problemas**: identificar e solucionar problemas de rede, como interrupções de serviço, latência de rede, perda de pacotes e outros problemas que possam afetar o desempenho da rede.
