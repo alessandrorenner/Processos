@@ -5,36 +5,26 @@
 ## Engenharia de dados
 **indicador**: _DISPONIBILIDADE_
 
-A engenharia de dados é um campo da engenharia de software que se concentra na concepção, desenvolvimento, implementação e manutenção de sistemas de gerenciamento de dados e infraestrutura de dados. A engenharia de dados envolve a aplicação de princípios de engenharia de software para projetar e construir sistemas de gerenciamento de dados que suportem a captura, armazenamento, processamento, análise e compartilhamento de grandes volumes de dados.
-Os engenheiros de dados trabalham com uma variedade de tecnologias e ferramentas de software para construir sistemas de gerenciamento de dados robustos, escaláveis e seguros, incluindo bancos de dados relacionais e NoSQL, tecnologias de processamento em lote e em tempo real, ferramentas de ETL (Extração, Transformação e Carga), infraestrutura de nuvem, sistemas de armazenamento de dados distribuídos e outras.
-Os engenheiros de dados também colaboram com equipes de cientistas de dados e analistas de dados para garantir que os sistemas de gerenciamento de dados atendam aos requisitos de negócios e de análise de dados. Eles também trabalham com profissionais de segurança da informação para garantir a segurança e a privacidade dos dados armazenados e processados pelos sistemas de gerenciamento de dados.
-A engenharia de dados desempenha um papel fundamental na era atual de big data e análise de dados, permitindo que as organizações gerenciem e aproveitem efetivamente grandes volumes de dados para obter insights valiosos.
+A engenharia de dados é um ramo da engenharia de software que se dedica ao desenvolvimento de sistemas de gerenciamento de dados e infraestrutura, utilizando princípios de engenharia de software para projetar e construir sistemas que possam capturar, armazenar, processar, analisar e compartilhar grandes volumes de dados. 
 
-A engenharia de dados é um campo que se concentra na concepção, desenvolvimento, implementação e manutenção de sistemas de gerenciamento de dados e infraestrutura de dados. Os engenheiros de dados aplicam princípios de engenharia de software para criar sistemas que suportem a captura, armazenamento, processamento, análise e compartilhamento de grandes volumes de dados. Eles trabalham com várias tecnologias e ferramentas de software para construir sistemas robustos, escaláveis e seguros, além de colaborar com equipes de cientistas e analistas de dados para garantir que os sistemas atendam aos requisitos de negócios e de análise de dados. Os engenheiros de dados também garantem a segurança e a privacidade dos dados armazenados e processados pelos sistemas.
+Engenheiros de dados trabalham com diversas tecnologias e ferramentas de software para construir sistemas robustos, escaláveis e seguros, colaborando com equipes de cientistas e analistas de dados para garantir que esses sistemas atendam às necessidades de negócios e análise de dados, e trabalham também com profissionais de segurança da informação para garantir a segurança e privacidade dos dados armazenados e processados pelos sistemas. A engenharia de dados é essencial para o gerenciamento e aproveitamento de grandes volumes de dados, proporcionando insights valiosos em meio à era do big data e da análise de dados.
 
 ### as principais atividades da engenharia de dados são:
 
-1. **Projetar**: projetar e desenvolver sistemas de gerenciamento de dados escaláveis e seguros para atender às necessidades de negócios e de análise de dados.
+1. **Projetar**: elaborando projetos e desenvolvendo sistemas de gerenciamento de dados escaláveis e seguros para atender às necessidades de negócios e de análise de dados da organização.
 
-2. **Implementar**: implementar sistemas de gerenciamento de dados;
+2. **Implementar**: implementando soluções capazes de extrair dados de diferentes fontes, transformá-los em um formato apropriado para análise e carregá-los em sistemas de gerenciamento de dados. Além disso, integrando esses sistemas com outros aplicativos e sistemas para permitir a troca de dados e a automação de processos.
 
-extrair dados de várias fontes, transformar os dados em um formato adequado para análise e carregar os dados em sistemas de gerenciamento de dados;
-
-integrar sistemas de gerenciamento de dados com outros sistemas e aplicativos para permitir a troca de dados e a automação de processos.
-
-3. **Monitorar**: monitorar o desempenho dos sistemas de gerenciamento de dados e otimizar o desempenho para garantir a escalabilidade e a eficiência.
-
-garantir a segurança e a privacidade dos dados armazenados e processados pelos sistemas de gerenciamento de dados, 
+3. **Monitorar**: monitorando o desempenho dos sistemas de gerenciamento de dados e otimizando o desempenho para garantir a escalabilidade e a eficiência. Observando e 
+garantindo a segurança e a privacidade dos dados armazenados e processados pelos sistemas de gerenciamento de dados
 
 4. **Identificar e solucionar problemas**: 
 
 5. ** **:
 
-6. **Colaborar com outras equipes**: trabalhar com profissionais de segurança da informação.
+6. **Colaborar com outras equipes**: colaborando com profissionais de segurança da informação, analistas e cientistas de dados para garantir que os sistemas de gerenciamento de dados atendam às necessidades de negócios e análise de dados.
 
-colaborar com equipes de análise de dados e cientistas de dados para garantir que os sistemas de gerenciamento de dados atendam às necessidades de análise de dados e de negócios.
-
-7. **Propor a adoção de novas tecnologias**: pesquisar e avaliar novas tecnologias e ferramentas de software para melhorar os sistemas de gerenciamento de dados.
+7. **Propor a adoção de novas tecnologias**: pesquisando e avaliando novas tecnologias e ferramentas de software para melhorar os sistemas de gerenciamento de dados.
 
 
 
@@ -42,21 +32,19 @@ colaborar com equipes de análise de dados e cientistas de dados para garantir q
 
 **indicador**: _DISPONIBILIDADE_
 
-A Engenharia de Sistemas Operacionais é um ramo da engenharia de software que se concentra no desenvolvimento e projeto de sistemas operacionais (SO) complexos e de grande escala. Isso inclui a criação de sistemas operacionais para computadores pessoais, servidores, dispositivos móveis, sistemas embebidos, entre outros. Os engenheiros de sistemas operacionais trabalham com diferentes aspectos do sistema operacional, incluindo gerenciamento de processos, gerenciamento de memória, sistemas de arquivos, segurança, comunicação e rede, entre outros. Eles também trabalham com linguagens de programação de baixo nível e arquiteturas de computadores para criar sistemas operacionais eficientes, seguros e confiáveis. A Engenharia de Sistemas Operacionais é uma área fundamental da computação, pois os sistemas operacionais são a base de todos os dispositivos e computadores modernos.
+A Engenharia de Sistemas Operacionais é um ramo da engenharia de software que se concentra no desenvolvimento e projeto de sistemas operacionais (SO) complexos e de grande escala. Isso inclui a criação de sistemas operacionais para computadores pessoais, servidores, dispositivos móveis, sistemas embebidos, entre outros. 
+
+Engenheiros de sistemas operacionais trabalham com diferentes aspectos do sistema operacional, incluindo gerenciamento de processos, gerenciamento de memória, sistemas de arquivos, segurança, comunicação e rede, entre outros. Eles também trabalham com linguagens de programação de baixo nível e arquiteturas de computadores para criar sistemas operacionais eficientes, seguros e confiáveis. A Engenharia de Sistemas Operacionais é uma área fundamental da computação, pois os sistemas operacionais são a base de todos os dispositivos e computadores modernos.
 
 ### as principais atividades da engenharia de sistemas operacionais são:
 
 1. **Projetar**: Projetar e desenvolver sistemas operacionais complexos e de grande escala;
 
-2. **Implementar**: implementar sistemas operacionais
+2. **Implementar**: implementar sistemas operacionais, desenvolvendo algoritmos e estruturas para garantir a eficiência e confiabilidade dos sistemas operacionais. Trabalhando em diferentes aspectos do sistema operacional, como gerenciamento de processos, memória, sistemas de arquivos, segurança, comunicação e rede;
 
-Desenvolver e implementar algoritmos e estruturas de dados complexas para garantir a eficiência e confiabilidade do sistema operacional;
+3. **Monitorar**: Mantendo e atualizando o sistema operacional continuamente para garantir sua eficácia e segurança;
 
-Trabalhar em diferentes aspectos do sistema operacional, como gerenciamento de processos, memória, sistemas de arquivos, segurança, comunicação e rede;
-
-3. **Monitorar**: Manter e atualizar o sistema operacional continuamente para garantir sua eficácia e segurança;
-
-4. **Identificar e solucionar problemas**: Realizar testes, depuração, solução de problemas e documentação do sistema operacional;
+4. **Identificar e solucionar problemas**: Realizando testes, depuração, solução de problemas e documentação do sistema operacional;
 
 5. ** **:
 
