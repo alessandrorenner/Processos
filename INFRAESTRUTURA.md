@@ -2,6 +2,7 @@
 
 ## Engenharia de dados
 _DISPONIBILIDADE_
+
 A engenharia de dados é um campo da engenharia de software que se concentra na concepção, desenvolvimento, implementação e manutenção de sistemas de gerenciamento de dados e infraestrutura de dados. A engenharia de dados envolve a aplicação de princípios de engenharia de software para projetar e construir sistemas de gerenciamento de dados que suportem a captura, armazenamento, processamento, análise e compartilhamento de grandes volumes de dados.
 Os engenheiros de dados trabalham com uma variedade de tecnologias e ferramentas de software para construir sistemas de gerenciamento de dados robustos, escaláveis e seguros, incluindo bancos de dados relacionais e NoSQL, tecnologias de processamento em lote e em tempo real, ferramentas de ETL (Extração, Transformação e Carga), infraestrutura de nuvem, sistemas de armazenamento de dados distribuídos e outras.
 Os engenheiros de dados também colaboram com equipes de cientistas de dados e analistas de dados para garantir que os sistemas de gerenciamento de dados atendam aos requisitos de negócios e de análise de dados. Eles também trabalham com profissionais de segurança da informação para garantir a segurança e a privacidade dos dados armazenados e processados pelos sistemas de gerenciamento de dados.
@@ -26,6 +27,7 @@ A engenharia de dados é um campo que se concentra na concepção, desenvolvimen
 
 ## Engenharia de sistemas operacionais
 _DISPONIBILIDADE_
+
 A Engenharia de Sistemas Operacionais é um ramo da engenharia de software que se concentra no desenvolvimento e projeto de sistemas operacionais (SO) complexos e de grande escala. Isso inclui a criação de sistemas operacionais para computadores pessoais, servidores, dispositivos móveis, sistemas embebidos, entre outros. Os engenheiros de sistemas operacionais trabalham com diferentes aspectos do sistema operacional, incluindo gerenciamento de processos, gerenciamento de memória, sistemas de arquivos, segurança, comunicação e rede, entre outros. Eles também trabalham com linguagens de programação de baixo nível e arquiteturas de computadores para criar sistemas operacionais eficientes, seguros e confiáveis. A Engenharia de Sistemas Operacionais é uma área fundamental da computação, pois os sistemas operacionais são a base de todos os dispositivos e computadores modernos.
 
 ### as principais atividades da engenharia de sistemas operacionais são:
@@ -60,6 +62,7 @@ A engenharia de segurança da informação é um campo da engenharia que se conc
 
 ## Engenharia de redes
 _DISPONIBILIDADE_
+
 área que se ocupa de projetar, instalar e manter redes de computadores e telecomunicações
 missão: Monitorar o desempenho das redes e assegurar a disponibilidade e a confiabilidade das mesmas
 A engenharia de redes é um campo da engenharia de computação que se concentra no projeto, implementação e manutenção de redes de computadores. Ela envolve a aplicação de princípios de engenharia de software, ciência da computação, matemática e eletrônica para projetar, construir e manter redes de computadores que possam transmitir informações de forma eficiente, segura e confiável entre dispositivos de rede, incluindo computadores, servidores, roteadores, switches e outros dispositivos de rede. A engenharia de redes também pode envolver o design e implementação de redes sem fio e a integração de sistemas de rede em outras infraestruturas de TI, como data centers e sistemas de armazenamento de dados.
